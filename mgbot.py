@@ -15,9 +15,9 @@ import requests
 os.makedirs("./downloads", exist_ok=True)
 bot = Client(
     "MG Concept",
-    bot_token=os.environ.get("BOT_TOKEN"),
-    api_id=int(os.environ.get("API_ID")),
-    api_hash=os.environ.get("API_HASH")
+    bot_token=os.environ.get("6954748875:AAE75n3ss14P83DMjNLKsUNz2mxwf92grbA"),
+    api_id=int(os.environ.get("25146212")),
+    api_hash=os.environ.get("452007cf64f3d2dbdc16ab4c919311aa")
 )
 
 
